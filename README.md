@@ -1,23 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <!-- Left Content -->
-  <div>
-    <h1>Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="wave" /> I’m Vyakhya Namdev</h1>
-
-   <h3>
-      A lifelong learner and problem-solver in the world of code & AI.<br><br>
-      Currently pursuing B.Tech in CSE, specializing in Artificial Intelligence & Machine Learning.<br><br>
-      I have been deeply involved in Data Structures & Web Development, with over 300+ solved questions on LeetCode.<br><br>
-      Skilled in Java and the MERN stack, and currently diving into Artificial Intelligence.
-    </h3>
-  </div>
-
-  <!-- Right Image -->
-  <img width="300" height="300" 
-       src="https://github.com/user-attachments/assets/08f067a0-3794-435a-9ec5-1e4e5c1644d3" 
-       alt="profile image" />
-
-</div>
+<div> <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="wave" /> I’m Vyakhya Namdev</h1> <img width="400" height="400" alt="—Pngtree—beautiful cartoon office girl icon_15318082" src="https://github.com/user-attachments/assets/08f067a0-3794-435a-9ec5-1e4e5c1644d3" /> <div> <h3 align="center"> A lifelong learner and problem-solver in the world of code & AI. Currently pursuing B.Tech in CSE, specializing in Artificial Intelligence & Machine Learning. <br><br> I have been deeply involved in Data Structures & Web Development, with over 300+ solved questions on LeetCode showing my commitment to algorithmic thinking and practice. I’m skilled in Java and the MERN stack, and am currently diving into Artificial Intelligence to stay connected with emerging technologies. </h3>
 
   
 <br>
