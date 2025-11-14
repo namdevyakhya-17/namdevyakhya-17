@@ -21,3 +21,65 @@
 
 </p>
 
+
+<br>
+<br>
+<h2>Vyakhya's Git Status</h2>
+<hr>
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=namdevyakhya-17&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" 
+    height="130" width="400" 
+    alt="streak graph"  
+  />
+  <br>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=namdevyakhya-17&custom_title=Vyakhya%20Namdev%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&title_color=000000&area=true" 
+    alt="GitHub Activity Graph" 
+  />
+  <br>
+
+  <!-- Stats -->
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdevyakhya-17&hide=html,c,cpp,cmake&hide_border=true&layout=compact&langs_count=8&theme=default" 
+  alt="Top Languages" 
+/>
+
+
+  <!-- Profile Details -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namdevyakhya-17&theme=default&hide_border=true" 
+    alt="Profile Details" 
+  />
+
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdevyakhya-17&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" 
+            alt="Top Languages" 
+          />
+        </td>
+        <td>
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namdevyakhya-17&theme=default&hide_border=true" 
+            alt="Repos Per Language" 
+          />
+        </td>
+        <td>
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namdevyakhya-17&theme=default&hide_border=true" 
+            alt="Most Commit Language" 
+          />
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <br>
+</div>
